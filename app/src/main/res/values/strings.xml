@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UND Portfolio</string>
+
+    <string name="port_activity_title">Android Nanodegree Portfolio</string>
+    <string name="port_activity_spotstream">Spotify Streamer</string>
+    <string name="port_activity_scores">Scores</string>
+    <string name="port_activity_lib">Library</string>
+    <string name="port_activity_build">Build It Better</string>
+    <string name="port_activity_xyz">XYZ Reader</string>
+    <string name="port_activity_capstone">Capstone</string>
+    <string name="action_settings">Settings</string>
+</resources>
